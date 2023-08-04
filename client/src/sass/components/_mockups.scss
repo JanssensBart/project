@@ -1,0 +1,17 @@
+
+.box {
+    width: 100px;
+    height: 100px;
+    content: ""; 
+    border: 1px solid black;
+}
+
+.colorContainer {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    grid-column-gap: 1rem;
+    grid-row-gap: 1rem;
+    justify-items: center;
+    align-items: center;
+    margin: 3em;
+}

@@ -1,0 +1,16 @@
+20230723	14:44:14	c7201c55-5866-4e17-9643-9fddbe201e50	Error: <h1>Server rejected your request defined by CORS</h1>
+20230723	14:45:25	4d38461a-4e89-4445-8a6a-521b69aad251	Error: <h1>Server rejected your request defined by CORS</h1>
+20230723	14:45:48	353cf304-033e-4718-9071-f25c1b54a816	Error: <h1>Server rejected your request defined by CORS</h1>
+20230723	14:46:21	7cc90e64-9c30-47e7-87ce-ba9f68aeecde	Error: Server rejected your request defined by CORS
+20230723	18:25:23	e8b06e16-2849-4bb1-809e-5c038f6604d7	SyntaxError: Unexpected string in JSON at position 12
+20230727	12:50:56	c84fb644-54b7-4aba-9089-b7812b97e536	Error: Server rejected your request defined by CORS
+20230727	12:52:21	6be8667b-653a-4d52-b1ad-0ed5797dfb1b	Error: Server rejected your request defined by CORS
+20230727	12:54:17	d212eb96-9f3e-413f-a614-52e4600a47c7	Error: Server rejected your request defined by CORS
+20230727	12:55:38	72fbd535-6bfb-48bf-80ac-c2b67241159e	Error: Server rejected your request defined by CORS
+20230727	12:59:47	ccca1654-5365-4db1-8137-039abd56eab6	Error: Server rejected your request defined by CORS
+20230727	13:00:37	86cce156-4bef-4647-93fd-040e514119c1	Error: Server rejected your request defined by CORS
+20230727	13:04:04	2a70318c-1fe0-4abd-8c01-6ce23ea9a33e	Error: Server rejected your request defined by CORS
+20230727	13:04:38	4db00b71-a518-47d9-aeb1-8f2bee5748cc	Error: Server rejected your request defined by CORS
+20230727	13:05:02	4d695de6-4dc9-40e7-bd7a-c405f7d0b335	Error: Server rejected your request defined by CORS
+20230727	13:18:19	7c038903-5773-449c-b7c3-34daedbacb93	Error: Server rejected your request defined by CORS
+20230727	13:23:16	199d2aed-e47f-4c39-8170-85a197e21633	Error: Server rejected your request defined by CORS
